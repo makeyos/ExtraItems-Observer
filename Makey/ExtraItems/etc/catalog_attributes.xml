@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Catalog:etc/catalog_attributes.xsd">
+    <group name="quote_item">
+        <attribute name="has_extra_items"/>
+        <attribute name="replacemainproduct"/>
+        <attribute name="mainproductsku"/>
+        <attribute name="extra_items_list"/>
+    </group>
+    <group name="wishlist_item">
+        <attribute name="has_extra_items"/>
+        <attribute name="replacemainproduct"/>
+        <attribute name="mainproductsku"/>
+        <attribute name="extra_items_list"/>
+    </group>
+    <group name="catalog_product">
+        <attribute name="has_extra_items"/>
+        <attribute name="replacemainproduct"/>
+        <attribute name="mainproductsku"/>
+        <attribute name="extra_items_list"/>
+    </group>
+</config>
