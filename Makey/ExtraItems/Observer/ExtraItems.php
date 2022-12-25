@@ -116,7 +116,7 @@ class ExtraItems implements ObserverInterface
                 }
             }
 
-//            this->updateStockLevels($stockChangeItems);  // update stocks....
+//            this->updateStockLevels($stockChangeItems);   // update stocks....
 
         }
     }
